@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MyBooking:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98489c97-c2af-42b3-b41e-1f3e8601faad" name="Changes" comment="final" />
+    <list id="ffb369f5-0ff6-4750-a30c-18cde75aa5af" name="Changes by John Pismisakis" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21SdCxtLAptFiUq3HJrPnzLuVYn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="BookButton" />
+      <recent name="ImagePanel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stavr\IdeaProjects\mybooking-giannitsa-city-100" />
+      <recent name="C:\Users\stavr\IdeaProjects\mybooking-giannitsa-city-100\src" />
+      <recent name="C:\Users\John Pismisakis\IdeaProjects\mybooking-giannitsa-city-2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stavr\IdeaProjects\mybooking-giannitsa-city-100\audio" />
+      <recent name="C:\Users\stavr\IdeaProjects\mybooking-giannitsa-city-100\lib" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyBooking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in MyBooking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBooking" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBooking" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBooking" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatformTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBooking" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlatformTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JUnit.All in MyBooking" />
+      <item itemvalue="JUnit.BookingTest" />
+      <item itemvalue="JUnit.ListingTest" />
+      <item itemvalue="JUnit.PlatformTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlatformTest" />
+        <item itemvalue="JUnit.All in MyBooking" />
+        <item itemvalue="JUnit.BookingTest" />
+        <item itemvalue="JUnit.ListingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98489c97-c2af-42b3-b41e-1f3e8601faad" name="Changes" comment="" />
+      <created>1637938298586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637938298586</updated>
+      <workItem from="1637938300079" duration="4231000" />
+      <workItem from="1638184924156" duration="83000" />
+      <workItem from="1638185070860" duration="5945000" />
+      <workItem from="1638294546264" duration="4771000" />
+      <workItem from="1638313137532" duration="595000" />
+      <workItem from="1638358910706" duration="7384000" />
+      <workItem from="1638372192551" duration="10342000" />
+      <workItem from="1638437285015" duration="6353000" />
+      <workItem from="1638478848447" duration="1217000" />
+      <workItem from="1638559194125" duration="1188000" />
+      <workItem from="1638707337302" duration="895000" />
+      <workItem from="1638708856020" duration="22666000" />
+      <workItem from="1638809400153" duration="1709000" />
+      <workItem from="1638811420271" duration="9662000" />
+      <workItem from="1638887481853" duration="633000" />
+      <workItem from="1638891698273" duration="45000" />
+      <workItem from="1638891772923" duration="2076000" />
+      <workItem from="1638896104279" duration="5847000" />
+      <workItem from="1639047629570" duration="606000" />
+      <workItem from="1639080214647" duration="16995000" />
+      <workItem from="1641127632548" duration="64000" />
+      <workItem from="1641127731350" duration="782000" />
+      <workItem from="1641128952834" duration="2638000" />
+      <workItem from="1641132028604" duration="941000" />
+      <workItem from="1641553803530" duration="634000" />
+      <workItem from="1641912973699" duration="12000" />
+      <workItem from="1642150255033" duration="8040000" />
+      <workItem from="1642158403780" duration="26000" />
+      <workItem from="1642158984002" duration="5943000" />
+      <workItem from="1642165077555" duration="5943000" />
+    </task>
+    <task id="LOCAL-00026" summary="customer search done, listing display done">
+      <created>1638377115780</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1638377115780</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Sign In/Up classes">
+      <created>1638711081885</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1638711081885</updated>
+    </task>
+    <task id="LOCAL-00028" summary="flow">
+      <created>1638712447185</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1638712447185</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Provider methods">
+      <created>1638713693728</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1638713693728</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Admin methods">
+      <created>1638714710313</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1638714710313</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Booking method">
+      <created>1638720874519</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1638720874519</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Search and Booking">
+      <created>1638727600549</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1638727600549</updated>
+    </task>
+    <task id="LOCAL-00033" summary="documentation">
+      <created>1638810151996</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1638810151996</updated>
+    </task>
+    <task id="LOCAL-00034" summary="warnings solved">
+      <created>1638813539324</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1638813539325</updated>
+    </task>
+    <task id="LOCAL-00035" summary="booking done">
+      <created>1638816336454</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1638816336454</updated>
+    </task>
+    <task id="LOCAL-00036" summary="final">
+      <created>1639105674157</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1639105674158</updated>
+    </task>
+    <task id="LOCAL-00037" summary="MainWindow">
+      <created>1642153143355</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1642153143355</updated>
+    </task>
+    <task id="LOCAL-00038" summary="some changes">
+      <created>1642154895872</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1642154895872</updated>
+    </task>
+    <task id="LOCAL-00039" summary="login and some other changes to the classes">
+      <created>1642157811845</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1642157811845</updated>
+    </task>
+    <task id="LOCAL-00040" summary="major update to mainpanel removal">
+      <created>1642161613876</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1642161613876</updated>
+    </task>
+    <task id="LOCAL-00041" summary="big update">
+      <created>1642165580407</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1642165580408</updated>
+    </task>
+    <task id="LOCAL-00042" summary="AddListing panel">
+      <created>1642171121913</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1642171121913</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Add/Edit Listing backend">
+      <created>1642351063864</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1642351063864</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Delete Button for providers">
+      <created>1642352164881</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1642352164881</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Changes by John Pismisakis">
+      <created>1642352701283</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1642352701283</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fixed some minor bugs for the AdminMainPage">
+      <created>1642368783306</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1642368783306</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Minor change to Provider">
+      <created>1642368956579</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1642368956579</updated>
+    </task>
+    <task id="LOCAL-00048" summary="One step closer">
+      <created>1642435897403</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1642435897403</updated>
+    </task>
+    <task id="LOCAL-00049" summary="thought I wouldn't commit didn't ya?">
+      <created>1642435994479</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1642435994479</updated>
+    </task>
+    <task id="LOCAL-00050" summary="javadoc">
+      <created>1642437320302</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1642437320303</updated>
+    </task>
+    <task id="LOCAL-00051" summary="javadoc">
+      <created>1642437344279</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1642437344279</updated>
+    </task>
+    <task id="LOCAL-00052" summary="infocard (almost done)">
+      <created>1642514375325</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1642514375326</updated>
+    </task>
+    <task id="LOCAL-00053" summary="javadoc">
+      <created>1642514416362</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1642514416362</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fixed a small bug in DeleteButton">
+      <created>1642548625539</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1642548625540</updated>
+    </task>
+    <task id="LOCAL-00055" summary="big update with emails and stuff">
+      <created>1642582947289</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1642582947291</updated>
+    </task>
+    <task id="LOCAL-00056" summary="minor changes">
+      <created>1642682934757</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1642682934772</updated>
+    </task>
+    <task id="LOCAL-00057" summary="password field warning fixed">
+      <created>1642683232775</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1642683232775</updated>
+    </task>
+    <task id="LOCAL-00058" summary="minor changes">
+      <created>1642686199951</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1642686199951</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Changes by John Pismisakis">
+      <created>1642686229061</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1642686229061</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Changes by John Pismisakis">
+      <created>1642690189489</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690189489</updated>
+    </task>
+    <task id="LOCAL-00061" summary="scroll bars">
+      <created>1642690228695</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1642690228695</updated>
+    </task>
+    <task id="LOCAL-00062" summary="some tests">
+      <created>1642694197293</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1642694197293</updated>
+    </task>
+    <task id="LOCAL-00063" summary="some tests">
+      <created>1642694224809</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1642694224809</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Javadoc done">
+      <created>1642710044654</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1642710044654</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Javadoc done">
+      <created>1642710075360</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1642710075360</updated>
+    </task>
+    <task id="LOCAL-00066" summary="README.md done">
+      <created>1642710301034</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1642710301034</updated>
+    </task>
+    <task id="LOCAL-00067" summary="some tests">
+      <created>1642714474312</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1642714474312</updated>
+    </task>
+    <task id="LOCAL-00068" summary="some tests">
+      <created>1642714491360</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1642714491360</updated>
+    </task>
+    <task id="LOCAL-00069" summary="last commit before QA">
+      <created>1642722707105</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1642722707105</updated>
+    </task>
+    <task id="LOCAL-00070" summary="last commit before QA">
+      <created>1642722752751</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1642722752751</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Call button with call sound">
+      <created>1642724963393</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1642724963393</updated>
+    </task>
+    <task id="LOCAL-00072" summary="fixed all warnings">
+      <created>1642726446540</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1642726446540</updated>
+    </task>
+    <task id="LOCAL-00073" summary="final">
+      <created>1642733097495</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1642733097496</updated>
+    </task>
+    <task id="LOCAL-00074" summary="final">
+      <created>1642783285623</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1642783285624</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login and some other changes to the classes" />
+    <MESSAGE value="major update to mainpanel removal" />
+    <MESSAGE value="big update" />
+    <MESSAGE value="AddListing panel" />
+    <MESSAGE value="Add/Edit Listing backend" />
+    <MESSAGE value="Delete Button for providers" />
+    <MESSAGE value="fixed some minor bugs for the AdminMainPage" />
+    <MESSAGE value="Minor change to Provider" />
+    <MESSAGE value="One step closer" />
+    <MESSAGE value="thought I wouldn't commit didn't ya?" />
+    <MESSAGE value="infocard (almost done)" />
+    <MESSAGE value="javadoc" />
+    <MESSAGE value="fixed a small bug in DeleteButton" />
+    <MESSAGE value="big update with emails and stuff" />
+    <MESSAGE value="password field warning fixed" />
+    <MESSAGE value="minor changes" />
+    <MESSAGE value="Changes by John Pismisakis" />
+    <MESSAGE value="scroll bars" />
+    <MESSAGE value="Javadoc done" />
+    <MESSAGE value="README.md done" />
+    <MESSAGE value="some tests" />
+    <MESSAGE value="last commit before QA" />
+    <MESSAGE value="Call button with call sound" />
+    <MESSAGE value="fixed all warnings" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mybooking_giannitsa_city_100$AdminTest.ic" NAME="AdminTest Coverage Results" MODIFIED="1642693156267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/mybooking_giannitsa_city_100$BookingTest.ic" NAME="BookingTest Coverage Results" MODIFIED="1642717693610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/mybooking_giannitsa_city_100$PlatformTest.ic" NAME="PlatformTest Coverage Results" MODIFIED="1642720686405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/mybooking_giannitsa_city_100$All_in_MyBooking.ic" NAME="All in MyBooking Coverage Results" MODIFIED="1642719421450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
